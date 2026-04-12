@@ -1,0 +1,9 @@
+{
+  "mode": "template",
+  "intensity": "medium",
+  "delays": {
+    "min_seconds": 30,
+    "max_seconds": 120
+  },
+  "note": "Используйте мягкий старт и контролируйте статистику по успешным действиям."
+}
