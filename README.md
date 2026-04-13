@@ -39,6 +39,15 @@
 4. При необходимости настройте блок сообщений.
 5. Запустите задачу и следите за статистикой.
 
+## Куда обычно переходят после прогрева
+
+- [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram), если нужно дальше распределить подготовленные аккаунты по рабочим группам;
+- [Управление прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram), если инфраструктура под нагрузку еще донастраивается;
+- [Настройки](https://github.com/Deskgram-2/telegram-automation-settings-deskgram), если после прогрева вы выравниваете общие параметры системы;
+- [Массовые подписки](https://github.com/Deskgram-2/telegram-join-groups-deskgram), если следующим шагом идет мягкая активность в сообществах;
+- [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram), если аккаунты готовятся под коммуникационные сценарии;
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram), если хотите видеть прогрев и дальнейшие запуски в одной операционной ленте.
+
 ## Как устроен сценарий
 
 ### Режим работы
@@ -75,6 +84,9 @@
 - [Панель аккаунтов](https://github.com/Deskgram-2/telegram-account-manager-deskgram)
 - [Настройки](https://github.com/Deskgram-2/telegram-automation-settings-deskgram)
 - [Массовые подписки](https://github.com/Deskgram-2/telegram-join-groups-deskgram)
+- [Управление прокси](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram)
+- [Рассылка в ЛС](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram)
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram)
 
 ## FAQ
 
