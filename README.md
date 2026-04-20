@@ -1,13 +1,13 @@
-# Прогрев Telegram-аккаунтов через Deskgram 2
+﻿# Прогрев Telegram-аккаунтов через Deskgram 2
 
 Прогрев аккаунтов в Deskgram 2 помогает подготовить Telegram-аккаунты к дальнейшей рабочей нагрузке через управляемые сценарии активности. Модуль полезен для аккуратного старта, распределения действий между аккаунтами и постепенного повышения рабочей устойчивости сетки.
 
-[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=ru)
 ## Интерактивный Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fwarming_accounts)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fwarming_accounts&lang=ru)
 
-Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fwarming_accounts)
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fwarming_accounts&lang=ru)
 
 
 
@@ -120,3 +120,4 @@
 ### Здесь можно гибко настраивать сценарий?
 
 Да, модуль как раз и нужен для управления ритмом, параметрами и форматом прогрева.
+
